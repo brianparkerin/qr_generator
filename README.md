@@ -2,7 +2,6 @@
 # QR Generator.
 
 
-_____
 
 ### Steps:
 

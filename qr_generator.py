@@ -38,13 +38,13 @@ logo_position = ((qr_width - logo_size) // 2, (qr_height - logo_size) // 2)
 qr_img.paste(logo_display, logo_position)
 
 # **5. Guardar el QR code en un archivo PNG con medidas 1023x1023**
-qr_img.save('test/RudimentalQR_with_logo.png')
+qr_img.save('png/RudimentalQR_with_logo.png')
 
 # **6. Generar el QR code en formato SVG con mejor calidad y menos borde**
 factory = qrcode.image.svg.SvgImage
 qr_svg = qrcode.make('https://Rudimental.es', image_factory=factory, box_size=20, border=2)
 
 # Guardar el QR en formato SVG
-qr_svg.save('test/RudimentalQR_with_logo.svg')
+qr_svg.save('svg/RudimentalQR_with_logo.svg')
 
 print("Código QR generado exitosamente y guardado como 'RudimentalQR_with_logo.png' y 'RudimentalQR_with_logo.svg'")

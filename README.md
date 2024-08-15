@@ -42,6 +42,6 @@ Before you begin, ensure you have the following installed on your system:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/qr-code-generator.git
+   git clone https://github.com/brianparkerin/qr-generator.git
    cd qr-code-generator
 

@@ -1,6 +1,8 @@
 # QR Code Generator with Custom Logo
 
-<img src="./assets/RudimentalQR_with_logo.png" alt="Rudimental QR Code" width="300"/>
+<div align="center">
+  <img src="./assets/RudimentalQR_with_logo.png" alt="Rudimental QR Code" width="300"/>
+</div>
 
 This project provides a Python script to generate high-quality QR codes with a custom logo centered in the middle. The QR code can be saved in both PNG and SVG formats with customizable dimensions and colors. The script is flexible and easy to modify for various use cases.
 

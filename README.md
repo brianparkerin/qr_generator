@@ -1,6 +1,7 @@
 # QR Code Generator with Custom Logo
 
 <div align="center">
+  <h1>QR Code Generator with Custom Logo</h1>
   <img src="./assets/RudimentalQR_with_logo.png" alt="Rudimental QR Code" width="300"/>
 </div>
 
